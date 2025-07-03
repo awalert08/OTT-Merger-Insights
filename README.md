@@ -1,5 +1,6 @@
 # 🎥 OTT Merger Insights Dashboard – LioCinema & Jotstar
 
+
 A strategic Power BI dashboard built to analyze the performance of two OTT platforms – **LioCinema** and **Jotstar** – in preparation for a merger. The project provides deep insights into user engagement, subscription behavior, content consumption, and regional usage to support the post-merger strategy.
 
 
@@ -8,13 +9,15 @@ A strategic Power BI dashboard built to analyze the performance of two OTT platf
 
 ## 📊 Project Overview
 
+
 This dashboard was developed as part of a business analysis case to assist in decision-making for the merger of two OTT platforms. It helps stakeholders understand platform-specific strengths and areas for improvement by presenting visual comparisons, performance metrics, and strategic recommendations.
 
 
 ---
 
 
-## 🧠 Key Insights Delivered
+## 🧠 Key  Insights Delivered
+
 
 - Active vs inactive users, monthly growth trends
 - Upgrade and downgrade plan behavior
@@ -27,21 +30,8 @@ This dashboard was developed as part of a business analysis case to assist in de
 ---
 
 
-## 📁 Dashboard Pages
-
-1. **Executive Overview** - High-level metrics & platform summary  
-2. **User Activity & Engagement** – Activity rates & growth trends  
-3. **Subscription Plan Movement** – Upgrade/downgrade flow via Sankey  
-4. **Content Consumption** – Watch time by content category  
-5. **Demographics & Segments** – Age group, city tier, and plan insights  
-6. **Platform Comparison** – Lio vs Jotstar performance matrix  
-7. **Strategic Recommendations** – Key actions for post-merger rollout
-
-
----
-
-
 ## 🛠 Tools & Techniques Used
+
 
 - **Power BI** for Multi-page interactive dashboarding, slicers, bookmarks, and page navigation
 - **DAX** for KPIs and time-based measures  
@@ -55,7 +45,31 @@ This dashboard was developed as part of a business analysis case to assist in de
 ---
 
 
-## 📸 Screenshots
+## 🧭 Domain, Industry & Functional Coverage
+
+
+- **Domain:**  
+  - Data Analytics  
+  - Business Intelligence  
+  - Dashboarding & Data Visualization
+
+- **Industry:**  
+  - Media & Entertainment – OTT (Over-the-Top) Streaming Services
+
+- **Functional Coverage:**  
+  - 📈 **User Engagement Analysis** – Active/inactive users, watch time trends  
+  - 🔁 **Subscription Plan Behavior** – Upgrade/downgrade flow, plan popularity  
+  - 📺 **Content Consumption Patterns** – Genre insights and platform-wise consumption  
+  - 👥 **Demographics & Segmentation** – Age group, city tier, and device-level analysis  
+  - ⚖️ **Platform Performance Comparison** – Side-by-side view of key KPIs  
+  - ✅ **Strategic Recommendations** – Post-merger action items for growth and alignment
+
+
+---
+
+
+## 📸 Dashboard Preview
+
 
 [ Executive Overview ]
 ![High-level KPIs comparing user activity and growth across both platforms.](screenshots/overview_page.png) 
@@ -70,9 +84,17 @@ This dashboard was developed as part of a business analysis case to assist in de
 ---
 
 
+## 🔗 Project Links
+
+
+- 📊 [Live Dashboard](#) *(https://app.powerbi.com/Redirect?action=OpenApp&appId=5f992669-9f15-450b-855b-b5f18a812acf&ctid=c6e549b3-5f45-4032-aae9-d4244dc5b2c4&experience=power-bi)*  
+- 💼 [LinkedIn Project Post](#) *(Link to your LinkedIn post or featured section)*  
+
 
 ## 📬 Author
+
 
 **Arti Rajendra Awale**  
 [LinkedIn](https://www.linkedin.com/in/arti-awale)  
 📧 artiawale08@gmail.com
+
