@@ -87,8 +87,8 @@ This dashboard was developed as part of a business analysis case to assist in de
 ## 🔗 Project Links
 
 
-- 📊 [Live Dashboard](#) *(https://app.powerbi.com/Redirect?action=OpenApp&appId=5f992669-9f15-450b-855b-b5f18a812acf&ctid=c6e549b3-5f45-4032-aae9-d4244dc5b2c4&experience=power-bi)*  
-- 💼 [LinkedIn Project Post](#) *(Link to your LinkedIn post or featured section)*  
+📊 Live Dashboard : [Explore the Live Dashboard](https://app.powerbi.com/Redirect?action=OpenApp&appId=5f992669-9f15-450b-855b-b5f18a812acf&ctid=c6e549b3-5f45-4032-aae9-d4244dc5b2c4&experience=power-bi)  
+💼 [LinkedIn Project Post](#) *(Link to your LinkedIn post or featured section)*  
 
 
 ## 📬 Author
