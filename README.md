@@ -72,13 +72,13 @@ This dashboard was developed as part of a business analysis case to assist in de
 
 
 [ Executive Overview ]
-![High-level KPIs comparing user activity and growth across both platforms.](screenshots/overview_page.png) 
+[High-level KPIs comparing user activity and growth across both platforms.](screenshots/ExecutiveView.PNG)
 
 [ Plan Movement Analysis]
-![Visualizes how users upgraded, downgraded, or stayed on the same plan.](screenshots/subscription_movement.png) 
+[Visualizes how users upgraded, downgraded, or stayed on the same plan.](screenshots/SubscriptionPlanManagement.png) 
 
 [ User Segments ]
-![Breakdown of users by age group, city tier, and subscription plan.](screenshots/content_consumption.png)  
+[Breakdown of users by age group, city tier, and subscription plan.](screenshots/UserActivityandEngagement.png)  
 
 
 ---
