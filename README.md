@@ -1,7 +1,7 @@
 # 🎥 OTT Merger Insights Dashboard – LioCinema & Jotstar
 
 
-A strategic Power BI dashboard built to analyze the performance of two OTT platforms – **LioCinema** and **Jotstar** – in preparation for a merger. The project provides deep insights into user engagement, subscription behavior, content consumption, and regional usage to support the post-merger strategy.
+A strategic Power BI dashboard built to analyze the performance of two OTT platforms – **LioCinema** and **Jotstar** – in preparation for a merger. The project offers in-depth insights into user engagement, subscription behavior, content consumption, and regional usage, providing support for the post-merger strategy.
 
 
 ---
@@ -88,7 +88,7 @@ This dashboard was developed as part of a business analysis case to assist in de
 
 
 📊 Live Dashboard : [Explore the Live Dashboard](https://app.powerbi.com/Redirect?action=OpenApp&appId=5f992669-9f15-450b-855b-b5f18a812acf&ctid=c6e549b3-5f45-4032-aae9-d4244dc5b2c4&experience=power-bi)  
-💼 [LinkedIn Project Post](#) *(Link to your LinkedIn post or featured section)*  
+💼 [LinkedIn Project Post](https://www.linkedin.com/posts/arti-awale_powerbi-ottanalytics-datavisualization-activity-7346910916766044161--lb8?utm_source=share&utm_medium=member_desktop&rcm=ACoAAC2cuBwBJtFBcGef4reG7gx9fr-bRZjlHH0)  
 
 
 ## 📬 Author
