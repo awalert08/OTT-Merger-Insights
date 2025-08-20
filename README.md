@@ -75,7 +75,7 @@ This dashboard was developed as part of a business analysis case to assist in de
 [High-level KPIs comparing user activity and growth across both platforms.](https://github.com/awalert08/OTT-Merger-Insights/blob/main/screenshots/Executive%20View.png)
 
 [ Plan Movement Analysis]
-[Visualizes how users upgraded, downgraded, or stayed on the same plan.](https://github.com/awalert08/OTT-Merger-Insights/blob/main/screenshots/Subscription%20Plan%20Management.)
+[Visualizes how users upgraded, downgraded, or stayed on the same plan.](https://github.com/awalert08/OTT-Merger-Insights/blob/main/screenshots/Subscription%20Plan%20Management.png)
 
 [ User Segments ]
 [Breakdown of users by age group, city tier, and subscription plan.](https://github.com/awalert08/OTT-Merger-Insights/blob/main/screenshots/User%20Activity%20and%20Engagement.png)
